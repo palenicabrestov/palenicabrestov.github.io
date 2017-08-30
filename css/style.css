@@ -172,6 +172,12 @@ ul#menu li a:hover, ul#menu li.tab_selected a, ul#menu li.tab_selected a:hover
   overflow: hidden;
   margin: 20px auto;
   text-align: justify;
+  margin-bottom: -33px;
+  min-height: 100%;
+}
+
+.push {
+  height: 33px;
 }
 
 .sidebar
@@ -229,6 +235,8 @@ ul#menu li a:hover, ul#menu li.tab_selected a, ul#menu li.tab_selected a:hover
   color: #A8AA94;
   text-transform: uppercase;
   letter-spacing: 0.1em;
+  position: absolute;
+  bottom: 0;
 }
 
 #footer a, #footer a:hover
