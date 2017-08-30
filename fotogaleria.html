@@ -1,6 +1,8 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 
+<script src="http://www.kasman.sk/javascripty/date.1.js" type="text/javascript" language="JavaScript"></script>
+
 <head>
     <title>Pálenica Brestov, Humenné</title>
     <meta name="description" content="Pálenica Brestov, Humenné"/>
@@ -17,11 +19,23 @@
 <div id="main">
     <div id="header">
         <div id="logo">
+            <div id="cf">
+                <img class="bottom" src="images/slivky.jpg" />
+                <img class="top" src="images/hrusky.jpg" />
+                <img class="bottom" src="images/marhule.jpg">
+            </div>
             <div id="logo_text">
                 <!-- class="orange", allows you to change the colour of the text - other classes are: "blue", "green", "red", "purple" and "yellow" -->
                 <h1><span class="orange">Pálenica</span> Brestov</h1>
             </div>
             <div id="menubar">
+                <div id="meniny" class="center">
+                    <span>
+                        <script> document.write(new Date().toLocaleDateString()); </script><br/>
+                        <span id="date_time"></span>
+                        &nbsp <span id="date_meniny"></span>
+                    </span>
+                </div>
                 <ul id="menu">
                     <!-- put class="tab_selected" in the li tag for the selected page - to highlight which page you're on -->
                     <!-- put class="first" in the a tag for the first page in the menu -->
@@ -30,6 +44,7 @@
                     <li><a href="Priprava_kvasu.html">Príprava kvasu</a></li>
                     <li><a href="cennik.html">Cenník</a></li>
                     <li class="tab_selected"><a href="fotogaleria.html">Fotogaléria</a></li>
+                    <li><a href="ovocie.html">Ovocie</a></li>
                     <li><a class="last" href="kontakt.html">Kontakt</a></li>
                 </ul>
             </div>
@@ -84,31 +99,6 @@
                         </th>
 
                         <th>
-
-                            <div class="tsc_decor_img tsc_dis_8"><a href="images/galeria/zariadenie1.jpg"
-                                                                    rel="lightbox-palenica"><span></span><img
-                                    src="images/galeria/zariadenie1_preview.jpg" width="300" height="200"
-                                    alt="Pálenica Brestov"/></a>
-                            </div>
-                            <div class="tsc_clear"></div>
-
-                        </th>
-
-                        <th>
-
-                            <div class="tsc_decor_img tsc_dis_8"><a href="images/galeria/zariadenie2.jpg"
-                                                                    rel="lightbox-palenica"><span></span><img
-                                    src="images/galeria/zariadenie2_preview.jpg" width="300" height="200"
-                                    alt="Pálenica Brestov"/></a>
-                            </div>
-                            <div class="tsc_clear"></div>
-
-                        </th>
-                    </tr>
-
-                    <tr>
-                        <th>
-
                             <div class="tsc_decor_img tsc_dis_8"><a href="images/galeria/kancelaria.jpg"
                                                                     rel="lightbox-palenica"><span></span><img
                                     src="images/galeria/kancelaria_preview.jpg" width="300" height="200"
@@ -118,24 +108,14 @@
                         </th>
 
                         <th>
-                            <div class="tsc_decor_img tsc_dis_8"><a href="images/galeria/ocenenie1.jpg"
+                            <div class="tsc_decor_img tsc_dis_8"><a href="images/galeria/kotol.jpg"
                                                                     rel="lightbox-palenica"><span></span><img
-                                    src="images/galeria/ocenenie1_preview.jpg" width="300" height="200"
-                                    alt="Ocenenie pálenice Brestov"/></a>
-                            </div>
-                            <div class="tsc_clear"></div>
-                        </th>
-
-                        <th>
-                            <div class="tsc_decor_img tsc_dis_8"><a href="images/galeria/diplom01.jpg"
-                                                                    rel="lightbox-palenica"><span></span><img
-                                    src="images/galeria/diplom01_preview.jpg" width="300" height="200"
+                                    src="images/galeria/kotol_preview.jpg" width="200" height="200"
                                     alt="Ocenenie pálenice Brestov"/></a>
                             </div>
                             <div class="tsc_clear"></div>
                         </th>
                     </tr>
-
 
                     <tr>
                         <th>
@@ -217,6 +197,25 @@
                             <div class="tsc_clear"></div>
                         </th>
 
+                        <th>
+                            <div class="tsc_decor_img tsc_dis_8"><a href="images/galeria/diplomy.jpg"
+                                                                    rel="lightbox-palenica"><span></span><img
+                                    src="images/galeria/diplomy.jpg" width="300" height="200"
+                                    alt="Ocenenie pálenice Brestov"/></a>
+                            </div>
+                            <div class="tsc_clear"></div>
+                        </th>
+                    </tr>
+
+                    <tr>
+                        <th>
+                            <div class="tsc_decor_img tsc_dis_8"><a href="images/galeria/diplomy2.jpg"
+                                                                    rel="lightbox-palenica"><span></span><img
+                                    src="images/galeria/diplomy2.jpg" width="300" height="200"
+                                    alt="Ocenenie pálenice Brestov"/></a>
+                            </div>
+                            <div class="tsc_clear"></div>
+                        </th>
                     </tr>
                 </table>
             </div>
@@ -226,6 +225,7 @@
     <div id="footer">Frndžalica s.r.o. | <a href="http://www.dcarter.co.uk">design
         by dcarter</a> | All Rights Reserved.
     </div>
+    <div class="hide"><span id="kasman"><a href="http://www.kasman.sk/javascript">JavaScript</a></span></div>
 </div>
 </body>
 </html>
