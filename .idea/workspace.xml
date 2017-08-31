@@ -2,25 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75710253-555d-4fe6-9bbc-08b240fbf326" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/palene/01_slivovica_k_60tke.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/palene/02_vsetko_najlepsie.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/palene/03_pre_jan.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/palene/04_ivanova_jahodovica.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/palene/05_jahodovica.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/palene/06_jablkovica.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/palene/07_hruska_s_ornamentami.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/palene/08_slivka_s_ornamentami.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/palene/09_jahodovica_s_vysackou.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/svadobne/01_ruzickova.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/svadobne/02_vela_lasky.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/svadobne/03_svadobne_srdiecka.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/svadobne/04_zlata_cira_laska.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/svadobne/05_svadobna_srdieckova_palenka.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/svadobne/06_pod_stromami_lasky.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/svadobne/07_mladomanzelsky_bozk.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/svadobne/08_ruzickova_laska.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/svadobne/09_k_vyrociu_svadby.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arrow_back.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/arrow_back.svg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flase/palene/01_slivovica_k_60tke.html" afterPath="$PROJECT_DIR$/flase/palene/01_slivovica_k_60tke.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flase/palene/02_vsetko_najlepsie.html" afterPath="$PROJECT_DIR$/flase/palene/02_vsetko_najlepsie.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flase/palene/03_palenka_pre_jana.html" afterPath="$PROJECT_DIR$/flase/palene/03_palenka_pre_jana.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flase/palene/04_ivanova_jahodovica.html" afterPath="$PROJECT_DIR$/flase/palene/04_ivanova_jahodovica.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flase/palene/05_jahodovica.html" afterPath="$PROJECT_DIR$/flase/palene/05_jahodovica.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flase/palene/06_jablkovica.html" afterPath="$PROJECT_DIR$/flase/palene/06_jablkovica.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flase/palene/07_hruska_s_ornamentami.html" afterPath="$PROJECT_DIR$/flase/palene/07_hruska_s_ornamentami.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flase/palene/08_slivka_s_ornamentami.html" afterPath="$PROJECT_DIR$/flase/palene/08_slivka_s_ornamentami.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flase/palene/09_jahodovica_s_vysackou.html" afterPath="$PROJECT_DIR$/flase/palene/09_jahodovica_s_vysackou.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flase/svadobne/01_ruzickova.html" afterPath="$PROJECT_DIR$/flase/svadobne/01_ruzickova.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flase/svadobne/02_vela_lasky.html" afterPath="$PROJECT_DIR$/flase/svadobne/02_vela_lasky.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flase/svadobne/03_svadobne_srdiecka.html" afterPath="$PROJECT_DIR$/flase/svadobne/03_svadobne_srdiecka.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flase/svadobne/04_zlata_cira_laska.html" afterPath="$PROJECT_DIR$/flase/svadobne/04_zlata_cira_laska.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flase/svadobne/05_svadobna_srdieckova_palenka.html" afterPath="$PROJECT_DIR$/flase/svadobne/05_svadobna_srdieckova_palenka.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flase/svadobne/06_pod_stromami_lasky.html" afterPath="$PROJECT_DIR$/flase/svadobne/06_pod_stromami_lasky.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flase/svadobne/07_mladomanzelsky_bozk.html" afterPath="$PROJECT_DIR$/flase/svadobne/07_mladomanzelsky_bozk.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flase/svadobne/08_ruzickova_laska.html" afterPath="$PROJECT_DIR$/flase/svadobne/08_ruzickova_laska.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flase/svadobne/09_k_vyrociu_svadby.html" afterPath="$PROJECT_DIR$/flase/svadobne/09_k_vyrociu_svadby.html" />
     </list>
     <ignored path="Brestov.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,12 +46,132 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="02_vela_lasky.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/flase/svadobne/02_vela_lasky.html">
+      <file leaf-file-name="01_ruzickova.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flase/svadobne/01_ruzickova.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
-              <folding />
+            <state relative-caret-position="323">
+              <caret line="58" column="14" selection-start-line="56" selection-start-column="8" selection-end-line="58" selection-end-column="14" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="01_slivovica_k_60tke.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flase/palene/01_slivovica_k_60tke.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="58" column="14" selection-start-line="56" selection-start-column="8" selection-end-line="58" selection-end-column="14" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02_vsetko_najlepsie.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flase/palene/02_vsetko_najlepsie.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="159">
+              <caret line="75" column="14" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="14" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="03_palenka_pre_jana.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flase/palene/03_palenka_pre_jana.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="74" column="14" selection-start-line="74" selection-start-column="14" selection-end-line="74" selection-end-column="14" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04_ivanova_jahodovica.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flase/palene/04_ivanova_jahodovica.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="74" column="14" selection-start-line="74" selection-start-column="14" selection-end-line="74" selection-end-column="14" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="05_jahodovica.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flase/palene/05_jahodovica.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="326">
+              <caret line="62" column="29" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="29" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="06_jablkovica.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flase/palene/06_jablkovica.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="159">
+              <caret line="73" column="14" selection-start-line="73" selection-start-column="14" selection-end-line="73" selection-end-column="14" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="07_hruska_s_ornamentami.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flase/palene/07_hruska_s_ornamentami.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="159">
+              <caret line="74" column="14" selection-start-line="74" selection-start-column="14" selection-end-line="74" selection-end-column="14" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="08_slivka_s_ornamentami.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flase/palene/08_slivka_s_ornamentami.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="159">
+              <caret line="74" column="14" selection-start-line="74" selection-start-column="14" selection-end-line="74" selection-end-column="14" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="09_jahodovica_s_vysackou.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/flase/palene/09_jahodovica_s_vysackou.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="159">
+              <caret line="74" column="14" selection-start-line="74" selection-start-column="14" selection-end-line="74" selection-end-column="14" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -78,7 +201,6 @@
         <option value="$PROJECT_DIR$/flase.html" />
         <option value="$PROJECT_DIR$/flase/template.html" />
         <option value="$PROJECT_DIR$/ovocie.html" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/fotogaleria.html" />
         <option value="$PROJECT_DIR$/cennik.html" />
@@ -86,15 +208,7 @@
         <option value="$PROJECT_DIR$/Priprava_kvasu.html" />
         <option value="$PROJECT_DIR$/flase/svadobne_table.html" />
         <option value="$PROJECT_DIR$/flase/palene_table.html" />
-        <option value="$PROJECT_DIR$/flase/palene/01_slivovica_k_60tke.html" />
-        <option value="$PROJECT_DIR$/flase/palene/02_vsetko_najlepsie.html" />
-        <option value="$PROJECT_DIR$/flase/palene/03_palenka_pre_jana.html" />
-        <option value="$PROJECT_DIR$/flase/palene/04_ivanova_jahodovica.html" />
-        <option value="$PROJECT_DIR$/flase/palene/05_jahodovica.html" />
-        <option value="$PROJECT_DIR$/flase/palene/06_jablkovica.html" />
-        <option value="$PROJECT_DIR$/flase/palene/07_hruska_s_ornamentami.html" />
-        <option value="$PROJECT_DIR$/flase/palene/08_slivka_s_ornamentami.html" />
-        <option value="$PROJECT_DIR$/flase/palene/09_jahodovica_s_vysackou.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/flase/svadobne/01_ruzickova.html" />
         <option value="$PROJECT_DIR$/flase/svadobne/02_vela_lasky.html" />
         <option value="$PROJECT_DIR$/flase/svadobne/03_svadobne_srdiecka.html" />
@@ -104,6 +218,15 @@
         <option value="$PROJECT_DIR$/flase/svadobne/07_mladomanzelsky_bozk.html" />
         <option value="$PROJECT_DIR$/flase/svadobne/08_ruzickova_laska.html" />
         <option value="$PROJECT_DIR$/flase/svadobne/09_k_vyrociu_svadby.html" />
+        <option value="$PROJECT_DIR$/flase/palene/01_slivovica_k_60tke.html" />
+        <option value="$PROJECT_DIR$/flase/palene/02_vsetko_najlepsie.html" />
+        <option value="$PROJECT_DIR$/flase/palene/03_palenka_pre_jana.html" />
+        <option value="$PROJECT_DIR$/flase/palene/04_ivanova_jahodovica.html" />
+        <option value="$PROJECT_DIR$/flase/palene/05_jahodovica.html" />
+        <option value="$PROJECT_DIR$/flase/palene/06_jablkovica.html" />
+        <option value="$PROJECT_DIR$/flase/palene/07_hruska_s_ornamentami.html" />
+        <option value="$PROJECT_DIR$/flase/palene/08_slivka_s_ornamentami.html" />
+        <option value="$PROJECT_DIR$/flase/palene/09_jahodovica_s_vysackou.html" />
       </list>
     </option>
   </component>
@@ -188,6 +311,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="flase" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="palenicabrestov.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="palenicabrestov.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="flase" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="palene" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -341,7 +482,7 @@
       <workItem from="1504019679273" duration="578000" />
       <workItem from="1504090230407" duration="17814000" />
       <workItem from="1504108336122" duration="5581000" />
-      <workItem from="1504161567248" duration="14745000" />
+      <workItem from="1504161567248" duration="17335000" />
     </task>
     <task id="LOCAL-00001" summary="Zalozka ovocie, animacia hlavicky, datum, cas, meniny">
       <created>1504106804935</created>
@@ -364,11 +505,18 @@
       <option name="project" value="LOCAL" />
       <updated>1504176890670</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Nahrane obrazky">
+      <created>1504177120049</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1504177120049</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106635000" />
+    <option name="totallyTimeSpent" value="109225000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -378,7 +526,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297062" sideWeight="0.5021075" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33443162" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.56836903" sideWeight="0.49789253" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17792422" sideWeight="0.49789253" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -408,7 +556,8 @@
     <MESSAGE value="Zalozka ovocie, animacia hlavicky, datum, cas, meniny" />
     <MESSAGE value="Odstranena spodna lista" />
     <MESSAGE value="Zmeneny navigacny bar, podstranka flase" />
-    <option name="LAST_COMMIT_MESSAGE" value="Zmeneny navigacny bar, podstranka flase" />
+    <MESSAGE value="Nahrane obrazky" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nahrane obrazky" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -536,14 +685,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="584" column="14" selection-start-line="584" selection-start-column="14" selection-end-line="584" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ovocie.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -566,14 +707,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="37" column="63" selection-start-line="37" selection-start-column="63" selection-end-line="37" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fotogaleria.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="43" column="69" selection-start-line="43" selection-start-column="69" selection-end-line="43" selection-end-column="69" />
           <folding />
         </state>
       </provider>
@@ -602,16 +735,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flase/svadobne_table.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="43" column="53" selection-start-line="43" selection-start-column="53" selection-end-line="43" selection-end-column="53" />
-          <folding>
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/flase/palene_table.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="281">
@@ -622,147 +745,227 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flase/palene/01_slivovica_k_60tke.html">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="47" column="63" selection-start-line="47" selection-start-column="63" selection-end-line="47" selection-end-column="63" />
+        <state relative-caret-position="384">
+          <caret line="589" column="14" selection-start-line="589" selection-start-column="14" selection-end-line="589" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flase/palene/02_vsetko_najlepsie.html">
+    <entry file="file://$PROJECT_DIR$/fotogaleria.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="47" column="63" selection-start-line="47" selection-start-column="63" selection-end-line="47" selection-end-column="63" />
+        <state relative-caret-position="374">
+          <caret line="67" column="114" selection-start-line="67" selection-start-column="76" selection-end-line="67" selection-end-column="114" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flase/palene/03_palenka_pre_jana.html">
+    <entry file="file://$PROJECT_DIR$/flase/svadobne_table.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="47" column="63" selection-start-line="47" selection-start-column="63" selection-end-line="47" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flase/palene/04_ivanova_jahodovica.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="55">
-          <caret line="47" column="63" selection-start-line="47" selection-start-column="63" selection-end-line="47" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flase/palene/05_jahodovica.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="47" column="63" selection-start-line="47" selection-start-column="63" selection-end-line="47" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flase/palene/06_jablkovica.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="47" column="63" selection-start-line="47" selection-start-column="63" selection-end-line="47" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flase/palene/07_hruska_s_ornamentami.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="47" column="63" selection-start-line="47" selection-start-column="63" selection-end-line="47" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flase/palene/08_slivka_s_ornamentami.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="47" column="63" selection-start-line="47" selection-start-column="63" selection-end-line="47" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flase/palene/09_jahodovica_s_vysackou.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="47" column="63" selection-start-line="47" selection-start-column="63" selection-end-line="47" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flase/svadobne/01_ruzickova.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="47" column="63" selection-start-line="47" selection-start-column="63" selection-end-line="47" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flase/svadobne/03_svadobne_srdiecka.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="47" column="63" selection-start-line="47" selection-start-column="63" selection-end-line="47" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flase/svadobne/04_zlata_cira_laska.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="47" column="63" selection-start-line="47" selection-start-column="63" selection-end-line="47" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flase/svadobne/05_svadobna_srdieckova_palenka.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="47" column="63" selection-start-line="47" selection-start-column="63" selection-end-line="47" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flase/svadobne/06_pod_stromami_lasky.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="47" column="63" selection-start-line="47" selection-start-column="63" selection-end-line="47" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flase/svadobne/07_mladomanzelsky_bozk.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="47" column="63" selection-start-line="47" selection-start-column="63" selection-end-line="47" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flase/svadobne/08_ruzickova_laska.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="47" column="63" selection-start-line="47" selection-start-column="63" selection-end-line="47" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flase/svadobne/09_k_vyrociu_svadby.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="47" column="63" selection-start-line="47" selection-start-column="63" selection-end-line="47" selection-end-column="63" />
-          <folding />
+        <state relative-caret-position="-289">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/flase/svadobne/02_vela_lasky.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
-          <folding />
+        <state relative-caret-position="159">
+          <caret line="75" column="14" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flase/svadobne/03_svadobne_srdiecka.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="76" column="14" selection-start-line="76" selection-start-column="14" selection-end-line="76" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flase/svadobne/04_zlata_cira_laska.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="75" column="14" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flase/svadobne/05_svadobna_srdieckova_palenka.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="75" column="14" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flase/svadobne/06_pod_stromami_lasky.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="75" column="14" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flase/svadobne/07_mladomanzelsky_bozk.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="62" column="29" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="29" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flase/svadobne/08_ruzickova_laska.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="74" column="14" selection-start-line="74" selection-start-column="14" selection-end-line="74" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flase/svadobne/09_k_vyrociu_svadby.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="75" column="14" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flase/svadobne/01_ruzickova.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="58" column="14" selection-start-line="56" selection-start-column="8" selection-end-line="58" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flase/palene/01_slivovica_k_60tke.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="58" column="14" selection-start-line="56" selection-start-column="8" selection-end-line="58" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flase/palene/02_vsetko_najlepsie.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="75" column="14" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flase/palene/03_palenka_pre_jana.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="74" column="14" selection-start-line="74" selection-start-column="14" selection-end-line="74" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flase/palene/04_ivanova_jahodovica.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="74" column="14" selection-start-line="74" selection-start-column="14" selection-end-line="74" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flase/palene/05_jahodovica.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="62" column="29" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="29" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flase/palene/06_jablkovica.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="73" column="14" selection-start-line="73" selection-start-column="14" selection-end-line="73" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flase/palene/07_hruska_s_ornamentami.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="74" column="14" selection-start-line="74" selection-start-column="14" selection-end-line="74" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flase/palene/08_slivka_s_ornamentami.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="74" column="14" selection-start-line="74" selection-start-column="14" selection-end-line="74" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flase/palene/09_jahodovica_s_vysackou.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="74" column="14" selection-start-line="74" selection-start-column="14" selection-end-line="74" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -584,3 +584,8 @@ nav ul {
 .active {
   color:orange !important;
 }
+
+.square {
+  height: 75px;
+  width: 75px;
+}
